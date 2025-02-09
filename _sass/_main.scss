@@ -168,6 +168,14 @@ main {
 
 
 @media screen and (max-width: 45rem ) {
+	.post img {
+		display: block;
+		margin-left: 0; /* Align images to the left */
+		margin-right: auto;
+		padding-left: 0; /* Ensure no left padding */
+	  }
+	}
+
 header li {
     display: inline;
 	margin-right: 1rem;
@@ -187,8 +195,6 @@ nav ul {
 	margin-top: 0.5rem;
 }
 
-}
-
 section {
 	flex-basis:0;
 	flex-grow:999;
@@ -196,14 +202,6 @@ section {
 	display:flex;
 	flex-direction:column;
 	
-}
-
-section.post {
-    padding: 0 1rem; /* Match header and section padding */
-}
-
-section.post img {
-    margin: 0 auto; /* Optional: Center images horizontally */
 }
 
 figcaption {
