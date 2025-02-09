@@ -198,6 +198,14 @@ section {
 	
 }
 
+section.post {
+    padding: 0 1rem; /* Match header and section padding */
+}
+
+section.post img {
+    margin: 0 auto; /* Optional: Center images horizontally */
+}
+
 figcaption {
     font-size: smaller;
 }
