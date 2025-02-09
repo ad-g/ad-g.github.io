@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Adam Vincent
 ---
 
 Adam Vincent is painter & illustrator living in St. Louis.  
