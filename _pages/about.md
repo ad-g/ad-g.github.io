@@ -9,4 +9,4 @@ Email: info@adamvincent.net
 
 ### Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](shore.jpg)

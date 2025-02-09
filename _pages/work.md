@@ -3,4 +3,4 @@ layout: page
 title: Work
 ---
 
-![Shore](shore.jpg)
+![Screenshot](shore.jpg)
