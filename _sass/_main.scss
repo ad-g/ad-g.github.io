@@ -174,12 +174,6 @@ main {
 
 
 @media screen and (max-width: 45rem ) {
-
-main {
-	max-width: 100%;
-	padding: 0.5rem;
-}	
-
 .post img {
 	display: block;
 	margin-left: 0; /* Align images to the left */
@@ -199,7 +193,7 @@ header ul {
 	padding-bottom: 2rem;	
 }
 
-nav {
+nav{
 	position: static;
 }
 
