@@ -15,6 +15,12 @@ body {
 	color: rgb(22, 23, 26);
 }
 
+// Navigation fixed hopefully
+
+nav {
+	position: fixed;
+}
+
 nav ul {
     border-right: 1px solid #edf2f7;
 }
@@ -186,6 +192,11 @@ header ul {
 	border-bottom: 1px solid #edf2f7;
 	padding-bottom: 2rem;	
 }
+
+nav {
+	position: static;
+}
+
 nav ul {
     border-right: 0px;
 }
